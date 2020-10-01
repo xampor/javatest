@@ -1,2 +1,2 @@
 # javatest
-Java test program
+A program to print pattern in java
